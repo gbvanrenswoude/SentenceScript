@@ -1,0 +1,3 @@
+set houseNumber to 34
+display "The house number is "
+display houseNumber
